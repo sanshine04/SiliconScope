@@ -1,0 +1,9 @@
+
+# Compiled simulation executables
+sim/*_sim
+
+# Generated waveform files
+sim/*.vcd
+
+# macOS system files
+**/.DS_Store
